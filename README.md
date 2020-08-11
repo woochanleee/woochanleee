@@ -8,7 +8,7 @@
 
 - Web Front End Developer 🤟
 - High School Student 📗(Daedeok Software Meister High School In Korea 🇰🇷)
-- I like React 🤭with TypeScript 🥰because it is fantastic!!!
+- I like React 🤭 with TypeScript 🥰 because it is fantastic!!!
 
 ### ❤️Interest ❤️
 
