@@ -10,7 +10,7 @@
 - High School Student 📗(Daedeok Software Meister High School In Korea 🇰🇷)
 - I like React 🤭 with TypeScript 🥰 because it is fantastic!!!
 
-### ❤️Interest ❤️
+### ❤️ Interest ❤️
 
 - React.jS
 - Vue.js
