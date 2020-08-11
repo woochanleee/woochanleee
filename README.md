@@ -4,7 +4,7 @@
 
 </div>
 
-### 💻Web Front End Developer 💻
+### 💻 Web Front End Developer 💻
 
 - Web Front End Developer 🤟
 - High School Student 📗(Daedeok Software Meister High School In Korea 🇰🇷)
