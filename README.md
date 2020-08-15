@@ -6,7 +6,7 @@
 
 ### ❤️ Interest ❤️
 
-- React.jS
+- React.js
 - Vue.js
 - JavaScript
 - TypeScript
