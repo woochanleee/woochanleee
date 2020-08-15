@@ -25,6 +25,8 @@
 - SSR
 
 <div align=center>
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=kjbin0420&theme=gruvbox)]
 
 <a href="https://velog.io/@_uchanlee" target="_blank"><img src="https://static.velog.io/favicon.ico" style="width: 20px;"/></a>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/uchanlee.dev)](https://www.facebook.com/uchanlee.dev)
