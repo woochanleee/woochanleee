@@ -1,9 +1,3 @@
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/woochanleee)](https://hits.seeyoufarm.com)
-
-</div>
-
 ### 💻 Web Front End Developer 💻
 
 - Web Front End Developer 🤟
@@ -25,6 +19,7 @@
 - SSR
 
 <div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/woochanleee)](https://hits.seeyoufarm.com)
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=woochanleee&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woochanleee&layout=compact&hide=python)
