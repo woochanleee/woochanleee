@@ -27,6 +27,7 @@
 <div align=center>
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=woochanleee&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woochanleee&layout=compact&hide=python)
 
 <a href="https://velog.io/@_uchanlee" target="_blank"><img src="https://static.velog.io/favicon.ico" style="width: 20px;"/></a>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/uchanlee.dev)](https://www.facebook.com/uchanlee.dev)
