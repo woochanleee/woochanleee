@@ -21,8 +21,8 @@
 <div align=center>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woochanleee&layout=compact&hide=python)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=woochanleee&repo=Lets-Share)](https://github.com/woochanleee/Lets-Share)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=woochanleee&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby)
 
 <a href="https://velog.io/@_uchanlee" target="_blank"><img src="https://static.velog.io/favicon.ico" style="width: 20px;"/></a>
