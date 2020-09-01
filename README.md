@@ -30,6 +30,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/woochan0219/)](https://www.instagram.com/woochan0219/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uchanlee.dev@gmail.com)](mailto:uchanlee.dev@gmail.com)
 
+[![Github Followers](https://img.shields.io/github/followers/woochanleee?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/woochanleee?tab=followers)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/woochanleee)](https://hits.seeyoufarm.com)
 
 </div>
